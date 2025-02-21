@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P01.SignOfIntegerNumbers", "P01.SignOfIntegerNumbers\P01.SignOfIntegerNumbers.csproj", "{BEDA5B15-9CA8-4C11-A8AE-D749B6C6A0CA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P02.Grades", "P02.Grades\P02.Grades.csproj", "{6AD6F8C3-45CF-432D-8607-5A76CEE86B1A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P04.PrintingTriangle", "P04.PrintingTriangle\P04.PrintingTriangle.csproj", "{6D936247-279E-43EE-8954-ABA69808AF7B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P06.CalculateRectangleArea", "P06.CalculateRectangleArea\P06.CalculateRectangleArea.csproj", "{F7145F32-B367-4336-AE33-3A72E4452244}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BEDA5B15-9CA8-4C11-A8AE-D749B6C6A0CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BEDA5B15-9CA8-4C11-A8AE-D749B6C6A0CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BEDA5B15-9CA8-4C11-A8AE-D749B6C6A0CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BEDA5B15-9CA8-4C11-A8AE-D749B6C6A0CA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6AD6F8C3-45CF-432D-8607-5A76CEE86B1A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6AD6F8C3-45CF-432D-8607-5A76CEE86B1A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6AD6F8C3-45CF-432D-8607-5A76CEE86B1A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6AD6F8C3-45CF-432D-8607-5A76CEE86B1A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6D936247-279E-43EE-8954-ABA69808AF7B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6D936247-279E-43EE-8954-ABA69808AF7B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6D936247-279E-43EE-8954-ABA69808AF7B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6D936247-279E-43EE-8954-ABA69808AF7B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F7145F32-B367-4336-AE33-3A72E4452244}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F7145F32-B367-4336-AE33-3A72E4452244}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F7145F32-B367-4336-AE33-3A72E4452244}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F7145F32-B367-4336-AE33-3A72E4452244}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
